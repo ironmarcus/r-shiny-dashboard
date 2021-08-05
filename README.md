@@ -1,6 +1,6 @@
 # r-shiny-dashboard
 
-[![Docker Image](https://github.com/ironmarcus/r-shiny-dashboard/actions/workflows/docker-image.yml/badge.svg)]
+[![Docker Image](https://github.com/ironmarcus/r-shiny-dashboard/actions/workflows/docker-image.yml/badge.svg)](https://github.com/ironmarcus/r-shiny-dashboard/actions)
 
 ## Resources:
 
