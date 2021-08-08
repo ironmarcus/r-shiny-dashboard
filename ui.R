@@ -7,7 +7,7 @@ shinyUI(
   fluidPage(
     
     # Paragraph "Hello world"
-    p("Hello world"),
+    p("Hello world. The user here is testing."),
     
     # Create button to print "Hello world" from server
     actionButton(inputId = "Print_Hello", label = "Print_Hello World"),
