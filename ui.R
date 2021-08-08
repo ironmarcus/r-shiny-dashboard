@@ -7,7 +7,7 @@ shinyUI(
   fluidPage(
     
     # Paragraph "Hello world"
-    p("Hello world. The user here is testing."),
+    p("Hello world. This is on the test-branch. Also testing to see if the PR works on github actions."),
     
     # Create button to print "Hello world" from server
     actionButton(inputId = "Print_Hello", label = "Print_Hello World"),
